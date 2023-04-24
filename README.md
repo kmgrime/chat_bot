@@ -1,8 +1,8 @@
 # Chat Bot
 
-[![Size](https://img.shields.io/github/languages/code-size/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME)
-[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO_NAME/total)](https://github.com/USERNAME/REPO_NAME)
-[![License](https://img.shields.io/github/license/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/blob/main/LICENSE)
+[![Size](https://img.shields.io/github/languages/code-size/USERNAME/REPO_NAME)](https://github.com/kmgrime/chat_bot)
+[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO_NAME/total)](https://github.com/kmgrime/chat_bot)
+[![License](https://img.shields.io/github/license/kmgrime/chat_bot)](https://github.com/kmgrime/chat_bot/blob/main/LICENSE)
 
 This is a simple chat bot written in Python. The bot loads a knowledge base from a JSON file, and then tries to find the best match to the user's question using the `difflib` library. If the bot finds a match, it returns the corresponding answer from the knowledge base. If it can't find a match, it prompts the user to provide an answer and adds it to the knowledge base.
 
